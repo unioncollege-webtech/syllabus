@@ -3,7 +3,7 @@
 * **Course:** CPTR 335 - Web Technologies
 * **Instructor:** Benjamin Barber, [bebarber@ucollege.edu](mailto:bebarber@ucollege.edu)
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/unioncollege-webtech/syllabus)
+    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/unioncollege-webtech)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
     * Look through and create [issues](https://github.com/unioncollege-webtech/syllabus/issues)
     * Tutoring in DB307
