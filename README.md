@@ -10,7 +10,7 @@
       - Sunday 7pm – 10pm
       - Monday 7pm – 9 pm
       - Wednesday 6pm – 8pm
-   * [Email](mailto:alf9@nyu.edu) for 1-on-1 help, or to set up a time to meet
+   * [Email](mailto:bebarber@ucollege.edu) for 1-on-1 help, or to set up a time to meet
 
 ### Homework Workflow
 
