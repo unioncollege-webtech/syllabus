@@ -23,7 +23,7 @@
 1. Push/sync up to GitHub.
 1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
 
-Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request even while the work is still in-progress if you are stuck and want to ask a question – just mention `@barberboy` with the question to make sure I know to look at it sooner.
+Feedback will be given in the pull request, so please respond with your thoughts and questions! You are welcome to open the pull request even while the work is still in-progress if you are stuck and want to ask a question – just mention `@barberboy` with the question to make sure I know to look at it sooner.
 
 Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.
 
