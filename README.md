@@ -46,7 +46,7 @@ https://github.com/unioncollege-webtech/fizzbuzz
 
 Define functions to convert between celsius and fahrenheit.
 
-github.com/unioncollege-webtech/temperature-converter
+https://github.com/unioncollege-webtech/temperature-converter
 
 
 ### [Peter Piper](https://github.com/unioncollege-webtech/peter-piper)
