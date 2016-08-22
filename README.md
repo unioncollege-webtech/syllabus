@@ -27,6 +27,100 @@ Feedback will be given in the pull request, so please respond with your thoughts
 
 Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.
 
+
+##Exercises
+
+### ["Introduction" Exercise](https://github.com/unioncollege-webtech/introduction)
+
+Use variables, strings, arrays, and console.log to log an introduction message.
+
+https://github.com/unioncollege-webtech/introduction
+
+
+### [FizzBuzz](https://github.com/unioncollege-webtech/fizzbuzz)
+
+An exercise using variables, operators, strings, numbers, and loops.
+
+https://github.com/unioncollege-webtech/fizzbuzz
+
+
+### [Temperature Converter](github.com/unioncollege-webtech/temperature-converter)
+
+Define functions to convert between celsius and fahrenheit.
+
+github.com/unioncollege-webtech/temperature-converter
+
+
+### [Peter Piper](https://github.com/unioncollege-webtech/peter-piper)
+
+Count how many times the letter ‘p’ occurs in Peter Piper’s famous tongue twister.
+
+https://github.com/unioncollege-webtech/peter-piper
+
+
+### [JavaScripting](https://github.com/unioncollege-webtech/javascripting)
+
+Walk through essential JavaScript language features, using the [JavaScripting workshop](https://github.com/sethvincent/javascripting) by [Seth Vincent](https://github.com/sethvincent).
+
+https://github.com/unioncollege-webtech/javascripting
+
+
+### [Sorts](https://github.com/unioncollege-webtech/sorts)
+
+An exercise using variables, operators, strings, numbers, and loops.
+
+https://github.com/unioncollege-webtech/sorts
+
+
+### [ZooKeep](https://github.com/unioncollege-webtech/zookeep)
+
+Use Objects and Arrays to display information about the animals at the zoo.
+
+https://github.com/unioncollege-webtech/zookeep
+
+
+### [Ten Useful Functions](https://github.com/unioncollege-webtech/ten-useful-functions)
+
+Write ten functions that are useful in some way, and demonstrate their use.
+
+https://github.com/unioncollege-webtech/ten-useful-functions
+
+
+### [Auto Table-of-Contents](https://github.com/unioncollege-webtech/table-of-contents)
+
+Write JavaScript to auto-generate a table of contents for an article based on the headings in the HTML document
+
+https://github.com/unioncollege-webtech/table-of-contents
+
+
+### [Calculator](https://github.com/unioncollege-webtech/calculator)
+
+Exercise your DOM skills to build functional calculator with JavaScript.
+
+https://github.com/unioncollege-webtech/calculator
+
+
+### [Puppies Versus Kittens](https://github.com/unioncollege-webtech/puppies-vs-kittens)
+
+Create an Express application to judge who is cuter: puppies or kittens.
+
+https://github.com/unioncollege-webtech/puppies-vs-kittens
+
+
+### [Puppies Versus Kittens (Advanced)](https://github.com/unioncollege-webtech/puppies-vs-kittens-advanced)
+
+Improve the Puppies Versus Kittens website by using cookies, POST requests, and templates.
+
+https://github.com/unioncollege-webtech/puppies-vs-kittens-advanced
+
+
+### [Final Project](https://github.com/unioncollege-webtech/final-project)
+
+Design and build a CRUD application which provides some useful benefit.
+
+https://github.com/unioncollege-webtech/final-project
+
+
 ## Credits
 
 The structure of this course and use of GitHub is heavily inspired by the [GitHub classroom guide](https://education.github.com/guide), and the [Advanced JavaScript class at NYU](https://github.com/advanced-js/syllabus). Major props to Aidan Feldman and the work he did with that class.
