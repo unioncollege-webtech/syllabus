@@ -1,7 +1,7 @@
 # Web Technologies Syllabus
 
 * **Course:** CPTR 335 - Web Technologies
-* **Instructor:** Benjamin Barber, [bebarber@ucollege.edu](mailto:bebarber@ucollege.edu)
+* **Instructor:** Benjamin Barber, [barberboy@gmail.com](mailto:barberboy@gmail.com)
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/unioncollege-webtech)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
@@ -10,7 +10,7 @@
       - Sunday 7pm – 10pm
       - Monday 7pm – 9 pm
       - Wednesday 6pm – 8pm
-   * [Email](mailto:bebarber@ucollege.edu) for 1-on-1 help, or to set up a time to meet
+   * [Email](mailto:barberboy@gmail.com) for 1-on-1 help, or to set up a time to meet
 
 ### Homework Workflow
 
