@@ -7,9 +7,7 @@
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
     * Look through and create [issues](https://github.com/unioncollege-webtech/syllabus/issues)
     * Tutoring in DB307
-      - Sunday 7pm – 10pm
-      - Monday 7pm – 9 pm
-      - Wednesday 6pm – 8pm
+      - **Times and locations TBD**
    * [Email](mailto:barberboy@gmail.com) for 1-on-1 help, or to set up a time to meet
 
 ### Homework Workflow
