@@ -42,7 +42,7 @@ An exercise using variables, operators, strings, numbers, and loops.
 https://github.com/unioncollege-webtech/fizzbuzz
 
 
-### [Temperature Converter](github.com/unioncollege-webtech/temperature-converter)
+### [Temperature Converter](https://github.com/unioncollege-webtech/temperature-converter)
 
 Define functions to convert between celsius and fahrenheit.
 
