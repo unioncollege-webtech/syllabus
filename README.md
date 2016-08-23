@@ -1,7 +1,7 @@
 # Web Technologies Syllabus
 
 * **Course:** CPTR 335 - Web Technologies
-* **Instructor:** matilda kond, [barberboy@gmail.com](mailto:barberboy@gmail.com)
+* **Instructor:** Benjamin Barber, [barberboy@gmail.com](mailto:barberboy@gmail.com)
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/unioncollege-webtech)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
@@ -9,6 +9,11 @@
     * Tutoring in DB307
       - **Times and locations TBD**
    * [Email](mailto:barberboy@gmail.com) for 1-on-1 help, or to set up a time to meet
+
+### Reading
+- [_You Don't Know JS_, Chapter 1: Into Programming](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#readme)
+- [_You Don't Know JS_, Chapter 2: Into JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#readme)
+
 
 ### Homework Workflow
 
