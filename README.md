@@ -1,7 +1,7 @@
 # Web Technologies Syllabus
 
 * **Course:** CPTR 335 - Web Technologies
-* **Instructor:** Benjamin Barber, [barberboy@gmail.com](mailto:barberboy@gmail.com)
+* **Instructor:** matilda kond, [barberboy@gmail.com](mailto:barberboy@gmail.com)
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/unioncollege-webtech)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
