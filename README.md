@@ -14,6 +14,11 @@
 - [_You Don't Know JS_, Chapter 1: Into Programming](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#readme)
 - [_You Don't Know JS_, Chapter 2: Into JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#readme)
 
+### Resources
+
+- [Cloud9 IDE](https://c9.io)
+- [GitHub Desktop](https://desktop.github.com)
+- [DevDocs API Documentation](http://devdocs.io/)
 
 ### Homework Workflow
 
