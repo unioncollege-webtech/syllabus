@@ -16,6 +16,7 @@
 
 ### Resources
 
+- [Introduction to JavaScript](https://barberboy.github.io/intro-to-javascript/)
 - [Cloud9 IDE](https://c9.io)
 - [GitHub Desktop](https://desktop.github.com)
 - [DevDocs API Documentation](http://devdocs.io/)
